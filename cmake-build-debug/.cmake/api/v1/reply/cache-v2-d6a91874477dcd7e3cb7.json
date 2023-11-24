@@ -55,7 +55,7 @@
 				}
 			],
 			"type" : "INTERNAL",
-			"value" : "c:/Users/Pratik Giri/CLionProjects/c-programming/cmake-build-debug"
+			"value" : "c:/Users/Pratik Giri/Documents/GitHub/c-programming/cmake-build-debug"
 		},
 		{
 			"name" : "CMAKE_CACHE_MAJOR_VERSION",
@@ -431,7 +431,7 @@
 				}
 			],
 			"type" : "STATIC",
-			"value" : "C:/Users/Pratik Giri/CLionProjects/c-programming/cmake-build-debug/CMakeFiles/pkgRedirects"
+			"value" : "C:/Users/Pratik Giri/Documents/GitHub/c-programming/cmake-build-debug/CMakeFiles/pkgRedirects"
 		},
 		{
 			"name" : "CMAKE_GENERATOR",
@@ -503,7 +503,7 @@
 				}
 			],
 			"type" : "INTERNAL",
-			"value" : "C:/Users/Pratik Giri/CLionProjects/c-programming"
+			"value" : "C:/Users/Pratik Giri/Documents/GitHub/c-programming"
 		},
 		{
 			"name" : "CMAKE_INSTALL_PREFIX",
@@ -1131,7 +1131,7 @@
 				}
 			],
 			"type" : "STATIC",
-			"value" : "C:/Users/Pratik Giri/CLionProjects/c-programming/cmake-build-debug"
+			"value" : "C:/Users/Pratik Giri/Documents/GitHub/c-programming/cmake-build-debug"
 		},
 		{
 			"name" : "c_programming_IS_TOP_LEVEL",
@@ -1155,7 +1155,7 @@
 				}
 			],
 			"type" : "STATIC",
-			"value" : "C:/Users/Pratik Giri/CLionProjects/c-programming"
+			"value" : "C:/Users/Pratik Giri/Documents/GitHub/c-programming"
 		}
 	],
 	"kind" : "cache",
