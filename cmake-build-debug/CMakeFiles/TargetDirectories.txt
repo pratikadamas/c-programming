@@ -1,0 +1,3 @@
+C:/Users/Pratik Giri/CLionProjects/c-programming/cmake-build-debug/CMakeFiles/c_programming.dir
+C:/Users/Pratik Giri/CLionProjects/c-programming/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/Pratik Giri/CLionProjects/c-programming/cmake-build-debug/CMakeFiles/rebuild_cache.dir
